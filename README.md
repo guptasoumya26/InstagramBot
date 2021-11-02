@@ -15,7 +15,7 @@
  ---
  ### Contributors
  Soumya Gupta <gupta.soumya26@gmail.com>
- Soumya Gupta <soumyansh@gmail.com>
+ 
 
 ---
 ### License & Copyright
